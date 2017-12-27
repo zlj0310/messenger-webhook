@@ -1,0 +1,19 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linghx",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "log4js": "^2.4.1",
+    "query-string": "^5.0.1",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4"
+  }
+}
